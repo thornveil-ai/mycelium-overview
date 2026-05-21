@@ -1,0 +1,14 @@
+# Mycelium OpenAPI specification (placeholder)
+
+# The full OpenAPI 3.1.0 specification is forthcoming in this repository.
+# For the current spec under evaluation NDA, contact: jesse@thornveil.ai
+
+# Surfaced endpoints (preview):
+#
+#   /v1/chat/completions   POST   OpenAI-compatible chat completions
+#   /v1/models             GET    List available models
+#   /v1/embeddings         POST   Embedding generation
+#   /healthz               GET    Liveness probe
+#   /mesh/status           GET    Current mesh state and peer health
+#   /mesh/dashboard.json   GET    Operator dashboard data
+#   /audit/verify          GET    Audit-chain integrity check

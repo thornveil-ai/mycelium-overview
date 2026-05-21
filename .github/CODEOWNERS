@@ -1,0 +1,7 @@
+# Default — engineering reviews all changes
+* @thornveil-ai/engineering
+
+# Critical files require admin co-signoff
+README.md     @jeranaias @thornveil-ai/engineering
+LICENSE       @jeranaias
+docs/         @jeranaias @thornveil-ai/engineering
