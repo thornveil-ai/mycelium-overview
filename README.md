@@ -1,6 +1,6 @@
 # Mycelium
 
-> **Public companion to [`thornveil-ai/mycelium`](https://github.com/thornveil-ai/mycelium).** Distributed AI mesh. Substitute-on-failure inference across heterogeneous nodes. Customer-deployed.
+> **Public companion to [`thornveil-ai/mycelium`](https://github.com/thornveil-ai/mycelium).** Distributed AI mesh. Substitute-on-failure inference across heterogeneous nodes..
 
 [![License](https://img.shields.io/badge/license-Apache--2.0%20(docs)-blue)](LICENSE)
 [![Source](https://img.shields.io/badge/source-private%20(licensed)-red)](#get-access)
